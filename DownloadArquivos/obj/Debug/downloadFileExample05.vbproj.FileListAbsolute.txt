@@ -1,0 +1,11 @@
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\downloadFileExample05.exe
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\downloadFileExample05.pdb
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\downloadFileExample05.xml
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.frmMain.resources
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.Resources.resources
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.vbproj.GenerateResource.Cache
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.exe.licenses
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.exe
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.xml
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.pdb
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\downloadFileExample05.vbprojResolveAssemblyReference.cache
